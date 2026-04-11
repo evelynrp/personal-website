@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: I'm Evelyn. I do humanities by day, and dabble in open source by night. If you're hiring in the Detroit area, hit me up!
 
   socialIcons:
     - name: email
