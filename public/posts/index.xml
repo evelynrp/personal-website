@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Evelyn Park</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Evelyn Park</description>
+    <image>
+      <title>Evelyn Park</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looking Back on 2024-2025</title>
+      <link>//localhost:1313/posts/looking-back/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/looking-back/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been going back over some of the &amp;ldquo;essays&amp;rdquo; I&amp;rsquo;ve posted here, and I
+am shocked (not really) to find that their quality is not very good. Most
+of the time I can&amp;rsquo;t seem to follow my own train of thought. I think I will
+leave most of them up, with the exception of the materials for the
+Judaism class I did for folks at my workplace because I think those are
+particularly egregious.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recommended Books on Judaism</title>
+      <link>//localhost:1313/posts/reading-list/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/reading-list/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Cahill, T. (2010). The Gifts of the Jews: How a Tribe of Desert Nomads Changed the Way Everyone Thinks and Feels. Knopf Doubleday Publishing Group.
+&lt;ul&gt;
+&lt;li&gt;Semi-historical work about the contribution of Jews to Western culture.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Donin, H. (2019). To be a Jew: A Guide to Jewish Observance in Contemporary Life Selected and Compiled from the Shulhan Arukh and Responsa Literature and Providing a Rationale for the Laws and the Traditions. Basic Books.
+&lt;ul&gt;
+&lt;li&gt;Foundational textbook to practical, everyday halacha.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fox, E. (1997). The Five Books of Moses: Genesis, Exodus, Leviticus, Numbers, Deuteronomy. Schocken Books.
+&lt;ul&gt;
+&lt;li&gt;My favorite Torah translation. Bad English, but very good Hebrew-in-English, preserving many Hebrew puns and poetic forms which other translations tend to lose or interpret away.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Gans, C. (2016). A Political Theory for the Jewish People: Three Zionist Narratives. Oxford University Press.
+&lt;ul&gt;
+&lt;li&gt;Comprehensive review of various strands of Zionist thought and Levantine politics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Green, A. (2012). These Are the Words: A Vocabulary of Jewish Spiritual Life. Jewish Lights Pub.
+&lt;ul&gt;
+&lt;li&gt;A short dictionary explaining common Jewish words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hayes, C. E. (2012). Introduction to the Bible. Yale University Press.
+&lt;ul&gt;
+&lt;li&gt;Excellent, digestible introduction to modern Hebrew Bible scholarship.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Heschel, A. J. (1999). God in Search of Man: A Philosophy of Judaism. Farrar, Straus and Giroux.
+&lt;ul&gt;
+&lt;li&gt;A comprehensive philosophy of Judaism as a religion of awe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Heschel, A. J. (2005). The Sabbath: Its Meaning for Modern Man. Farrar, Straus and Giroux.
+&lt;ul&gt;
+&lt;li&gt;A short and beautiful text about the importance and meaning of Shabbat.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hurwitz, S. (2019). Here All Along: Finding Meaning, Spirituality, and a Deeper Connection to Life in Judaism (After Finally Choosing to Look There). Spiegel &amp;amp; Grau.
+&lt;ul&gt;
+&lt;li&gt;A brief exploration of the often-overlooked spiritual aspect of Judaism.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kushner, A. (2015). The Grammar of God: A Journey into the Words and Worlds of the Bible. Spiegel &amp;amp; Grau.
+&lt;ul&gt;
+&lt;li&gt;A brief exploration of the role of Hebrew grammar in Biblical analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Shṭainzalts, ʿAdin. (2002). A Guide to Jewish Prayer. Schocken Books.
+&lt;ul&gt;
+&lt;li&gt;Foundational textbook to practical Jewish prayer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;revision-history&#34;&gt;Revision History&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025-06-28: Original posting.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>On the Historicity of the Edict of Cyrus</title>
+      <link>//localhost:1313/posts/cyrus/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/cyrus/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Was the Edict of Cyrus a true historical event or a Biblical story? From what I can find, arguments on either side of that question are mostly propaganda in support of a political agenda for or against Zionism and claims of Jewish indigeneity to the Levant.&lt;/p&gt;
+&lt;p&gt;In answering this question, it seems to make sense to approach its various parts chronologically, so this essay will begin with a whirlwind overview of the evidence of Israelite-Judean presence in the Levant, then cover evidence for the historicity of the Edict of Cyrus, and finally briefly-but-not-really-at-all touch on claims of indigeneity and modern political philosophy as it applies to the modern state of Israel. Please feel free to skip around.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horse, hevel, and healing</title>
+      <link>//localhost:1313/posts/horse/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/horse/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This essay hopes to establish the psychopompic fuction of Horse, the enigmatic homeless man in the 2019 Netflix series &lt;em&gt;Russian Doll&lt;/em&gt;. This essay treats the first season as a self-contained standalone story.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-psychopomp&#34;&gt;What Is a Psychopomp?&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;psychopomp&lt;/strong&gt; (&lt;em&gt;plural&lt;/em&gt; &lt;strong&gt;psychopomps&lt;/strong&gt;)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;(&lt;em&gt;religion&lt;/em&gt;) A spirit, deity, person, etc., who guides the souls of the dead to the afterlife. (Wiktionary, 2024)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;— &lt;a href=&#34;https://en.wiktionary.org/wiki/psychopomp&#34;&gt;Wiktionary&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A psychopomp ferries the souls of the dead from this world to the next. The Egyptian Anubis, the Germanic Wotan/Woden/Odin, and our own Grim Reaper — death itself personified — fulfill this psychopompic function.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orthopraxy, ethno-religions, and Jewish identity</title>
+      <link>//localhost:1313/posts/orthopraxy/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/orthopraxy/</guid>
+      <description>&lt;h2 id=&#34;nicea-canonization-and-the-aryan-heresy&#34;&gt;Nicea, canonization, and the Aryan Heresy&lt;/h2&gt;
+&lt;p&gt;In the middle of the 4th Century CE, in bustling Alexandria, Egypt, a presbyter name Arius argued that Jesus Christ was a &amp;ldquo;god from nothing&amp;rdquo;. He believed that Jesus was created &lt;em&gt;ex nihilo&lt;/em&gt;, from nothing, the same way that the rest of Creation was. While he may have believed Jesus was the Son of God, and was divine himself, he was not himself God, or made up of the same substance as God.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
