@@ -75,8 +75,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-#    - name: x
-#      url: "https://x.com/"
+    - name: email
+      url: "mailto:hello@evelynpark.com"
     - name: xmpp
       url: "xmpp:chava@disroot.org"
     - name: github
@@ -117,10 +117,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-#    - identifier: tags
-#      name: tags
-#      url: /tags/
-#      weight: 20
+    - identifier: privacy
+      name: Privacy
+      url: /privacy/
+      weight: 20
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org
