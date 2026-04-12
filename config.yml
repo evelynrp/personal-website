@@ -77,6 +77,8 @@ params:
   socialIcons:
     - name: email
       url: "mailto:hello@evelynpark.com"
+    - name: matrix
+      url: "https://matrix.to/#/@evelyn:nope.chat"
     - name: xmpp
       url: "xmpp:chava@disroot.org"
     - name: github
