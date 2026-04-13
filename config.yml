@@ -78,7 +78,7 @@ params:
     - name: email
       url: "mailto:hello@evelynpark.com"
     - name: matrix
-      url: "https://matrix.to/#/@evelyn:nope.chat"
+      url: "https://matrix.to/#/@evelynrp:fedora.im"
     - name: xmpp
       url: "xmpp:chava@disroot.org"
     - name: github
