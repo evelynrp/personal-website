@@ -1,6 +1,6 @@
 baseURL: "https://evelynpark.com/"
 title: Evelyn Park
-paginate: 5
+#paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
