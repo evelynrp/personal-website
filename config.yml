@@ -85,6 +85,10 @@ params:
       url: "xmpp:chava@disroot.org"
     - name: email
       url: "mailto:hello@evelynpark.com"
+    - name: liberapay
+      url: "https://liberapay.com/chava/"
+    - name: patreon
+      url: "https://www.patreon.com/evelynpark"
 
 #  analytics:
 #    google:
