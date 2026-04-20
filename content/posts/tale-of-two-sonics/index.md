@@ -25,9 +25,9 @@ While *Sonic 2* succeeded with powerful emotional beats via a disciplined and so
 | 1.1 | Robotnik's monologue on the mushroom planet — stranded but scheming, he uses a quill to signal across space | **The Ordinary World** (villain's exile as inverse mirror of the hero's status quo) |
 | 1.2 | Robotnik meets Knuckles and allies with him; they escape the mushroom planet together | **The Call to Adventure** (the threat that will upend Sonic's world is set in motion) |
 | 1.3 | Sonic plays vigilante hero ("Blue Justice") in Seattle, botching a robbery and destroying a city block | **The Ordinary World** / Refusal of Responsibility (Sonic is eager but unready) |
-| 1.4 | Green Hills morning montage; Tom and Maddie depart for Hawaii, leaving Sonic home alone | **The Ordinary World** (hero's comfortable but restless domestic life) |
-| 1.5 | Tom takes Sonic fishing; delivers the "that moment chooses you" speech about heroism and responsibility | **The Mentor** (Tom as the Wachowski wisdom-giver; Sonic receives the guiding principle he'll need) |
-| 1.6 | Tails arrives in Siberia, tracks Sonic to Green Hills with alien tech | **The Herald** (Tails signals danger is coming; the threshold is about to open) |
+| 1.4 | Tom takes Sonic fishing; delivers the "that moment chooses you" speech about heroism and responsibility | **The Mentor** (Tom as the Wachowski wisdom-giver; Sonic receives the guiding principle he'll need) |
+| 1.5 | Tom and Maddie depart for Hawaii, leaving Sonic home alone | **The Ordinary World** (hero's comfortable but restless domestic life) |
+| 1.6 | Tails arrives on Earth, tracks Sonic to Green Hills with alien tech | **The Herald** (Tails signals danger is coming; the threshold is about to open) |
 | 1.7 | Robotnik and Knuckles attack the Wachowski house; Sonic is beaten; Tails rescues them | **The Call to Adventure** / **Crossing the Threshold** (the ordinary world is shattered; Sonic is violently thrust into the quest) |
 | 1.8 | Tails formally introduces himself; explains Knuckles and the Master Emerald; team forms | **Meeting the Mentor / Gathering Allies** (Tails as guide; the stakes of the quest are named) |
 | 1.9 | Robotnik and Knuckles form their villain alliance at the Mean Bean café | **Shadow Force Assembles** (the antagonists mirror the heroes, forming their own dark fellowship) |
@@ -87,6 +87,34 @@ While *Sonic 2* succeeded with powerful emotional beats via a disciplined and so
 | 3.8 | Post-credits: a shadowy figure in a Sonic-like suit confronts Sonic; someone new has arrived | **The Call to a New Adventure** (the cycle begins again; a new unknown hedgehog signals the next threshold) |
 
 ### Sonic 2 Plot Analysis
+
+The cold open immediately reinforces Eggman's key characteristics: his ingenuity and his hatred of Sonic. His being a genius was already established in the first film, but we are more *told* than *shown*, as he already has government funding and an army of robots. Here, we see Eggman construct complex apparati from scratch, mostly from mushrooms.
+
+We also establish his tenacity. Despite his defeat, his being stranded on a strange planet with few resources, and his loss of his loyal Stone, he forges ahead with utmost confidence. His spirit is not broken, and seems, perhaps, incapable of breaking; he spends 243 days on the mushroom planet, in seemingly high spirits despite the poor quality of "musroom coffee".
+
+Finally, we see the a demonstration of the raw power contained in but one of Sonic's quills. This is what Eggman tried to appropriate in the first film and why he was banished; the power which Sonic naturally and inherently possesses. We are re-establishing the status quo, laying out the *mise en scene* for a new conflict.
+
+Enter some dudes with sweet costumes who we never see again and are given no explanation. Their weapons glow red, so presumably they are powered by Knuckles's quills. Eggman dispatches them all with a series of rock- and mushroom-based traps, reinforcing just how capable a foe he is.
+
+Knuckles comes through the portal in dramatic fashion, inquires about Sonic's quill, and an *ad hoc* alliance is made. Knuckles shows none of his abilities; we merely assume that he is powerful, as he resembles Sonic, appears to have been the leader of the armored dudes, and is one of the main characters from the games (if we've played them).
+
+We cut to Seattle, where Sonic is cosplaying Batman and causing significant property damage. Sonic is tremendously powerful, but has largely grown up socially isolated; the first film established his life as an orphan, and he has only had his found human family for less than a year. He is still a child, and has yet to learn Uncle Ben's lesson about power and responsibility.
+
+Note that the spectacle, the high-speed chase, the truck falling apart, the sewers exploding, and the terrible jokes are all in service to the narrative. They establish the central internal conflict: Sonic's immaturity and irresponsible use of his power.
+
+We get a little flashback of Longclaw, Sonic's original mother figure, to remind us of his tragic backstory, foreshadowing a critical element of his relationship with Knuckles.
+
+In scene 1.4, Sonic falling off the fishing boat is notably not a one-off gag, but rather a Chekov's gun and a subtle nod to fans of the game. We also get a Sanic reference, which is funny whether you know the meme or not; the film doesn't linger on it, it's just an Easter egg. The gags do not completely derail the scene's narrative function: Tom's Uncle Ben speech is the focus, gets the most screentime, and is the emotional center.
+
+Tom and Maddie depart. The *Home Alone* montage is a cute way to follow up on Tom's "You've got some growing up to do," while also giving a nod to the parents in the audience. This isn't just a film for kids and Sonic video game fans; it has the broad appeal of a classic 80s-90s family movie.
+
+Tails's introduction is brief, but incredibly effective. His physical appearance immediately places him in the same category as Sonic and Knucles; his opening monologue sets him up as Sonic's ally; his tracking gadet establishes him as the geek; and we immediately establish his power of flight.
+
+The brief glimpse of the Mean Bean cafe, and its subsequent appearances, is another effective Easter egg. Fans of the game recognize the name, but it ties into Eggman's established love of coffee. Subtle, effective, narratively meaningful.
+
+It is honestly refreshing that the guy from *Criminal Minds* initially seems hostile toward Tom. So often, there are no consequences to the questionable things the heroes do. Following up on events from the first film is fun, and shows that the film takes narrative continuity seriously.
+
+The attack on the Wachowski house is absolutely beautiful. Eggman's goofiness and Knuckles's seriousness play off of each other wonderfully. Sonic and Knuckles are visually distinct; their contrasting color schemes highlight their matched powersets. The chilling delivery of the "Do I look like I need your power?" line establishes Knuckles as a genuine threat even before he effortlessly defeats Sonic in battle.
 
 ### Sonic 3 Plot Analysis
 
