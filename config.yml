@@ -1,6 +1,6 @@
 baseURL: "https://evelynpark.com/"
 title: Evelyn Park
-#paginate: 5
+pagination.pagersize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -56,18 +56,18 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: "Hi there \U0001F44B"
+    subtitle: "I'm Evelyn. I do humanities by day, and dabble in open source by night. If you're hiring in the Detroit area, hit me up!"
+    imageUrl: "/avatar.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: avatar
     buttons:
+      - name: About
+        url: about
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -79,6 +79,8 @@ params:
       url: "https://substack.com/@evelynrp"
     - name: github
       url: "https://github.com/evelynrp"
+    - name: mastodon
+      url: "https://tech.lgbt/@chava"
     - name: matrix
       url: "https://matrix.to/#/@evelynrp:fedora.im"
     - name: xmpp
