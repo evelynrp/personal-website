@@ -68,6 +68,8 @@ params:
         url: about
       - name: Posts
         url: posts
+      - name: tetrataenite
+        url: "https://evelynrp.github.io/tetrataenite/"
 
   # home-info mode
   homeInfoParams:
