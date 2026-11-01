@@ -86,38 +86,6 @@ While *Sonic 2* succeeded with powerful emotional beats via a disciplined and so
 | 3.7 | Epilogue: the tubing race rematch — Team Sonic complete, joyful, together | **The Ordinary World Transformed** (the opening race echoes here, but now Shadow's absence/presence hangs in the air; the world is richer and more whole) |
 | 3.8 | Post-credits: a shadowy figure in a Sonic-like suit confronts Sonic; someone new has arrived | **The Call to a New Adventure** (the cycle begins again; a new unknown hedgehog signals the next threshold) |
 
-### Sonic 2 Plot Analysis
-
-The cold open immediately reinforces Eggman's key characteristics: his ingenuity and his hatred of Sonic. His being a genius was already established in the first film, but we are more *told* than *shown*, as he already has government funding and an army of robots. Here, we see Eggman construct complex apparati from scratch, mostly from mushrooms.
-
-We also establish his tenacity. Despite his defeat, his being stranded on a strange planet with few resources, and his loss of his loyal Stone, he forges ahead with utmost confidence. His spirit is not broken, and seems, perhaps, incapable of breaking; he spends 243 days on the mushroom planet, in seemingly high spirits despite the poor quality of "musroom coffee".
-
-Finally, we see the a demonstration of the raw power contained in but one of Sonic's quills. This is what Eggman tried to appropriate in the first film and why he was banished; the power which Sonic naturally and inherently possesses. We are re-establishing the status quo, laying out the *mise en scene* for a new conflict.
-
-Enter some dudes with sweet costumes who we never see again and are given no explanation. Their weapons glow red, so presumably they are powered by Knuckles's quills. Eggman dispatches them all with a series of rock- and mushroom-based traps, reinforcing just how capable a foe he is.
-
-Knuckles comes through the portal in dramatic fashion, inquires about Sonic's quill, and an *ad hoc* alliance is made. Knuckles shows none of his abilities; we merely assume that he is powerful, as he resembles Sonic, appears to have been the leader of the armored dudes, and is one of the main characters from the games (if we've played them).
-
-We cut to Seattle, where Sonic is cosplaying Batman and causing significant property damage. Sonic is tremendously powerful, but has largely grown up socially isolated; the first film established his life as an orphan, and he has only had his found human family for less than a year. He is still a child, and has yet to learn Uncle Ben's lesson about power and responsibility.
-
-Note that the spectacle, the high-speed chase, the truck falling apart, the sewers exploding, and the terrible jokes are all in service to the narrative. They establish the central internal conflict: Sonic's immaturity and irresponsible use of his power.
-
-We get a little flashback of Longclaw, Sonic's original mother figure, to remind us of his tragic backstory, foreshadowing a critical element of his relationship with Knuckles.
-
-In scene 1.4, Sonic falling off the fishing boat is notably not a one-off gag, but rather a Chekov's gun and a subtle nod to fans of the game. We also get a Sanic reference, which is funny whether you know the meme or not; the film doesn't linger on it, it's just an Easter egg. The gags do not completely derail the scene's narrative function: Tom's Uncle Ben speech is the focus, gets the most screentime, and is the emotional center.
-
-Tom and Maddie depart. The *Home Alone* montage is a cute way to follow up on Tom's "You've got some growing up to do," while also giving a nod to the parents in the audience. This isn't just a film for kids and Sonic video game fans; it has the broad appeal of a classic 80s-90s family movie.
-
-Tails's introduction is brief, but incredibly effective. His physical appearance immediately places him in the same category as Sonic and Knucles; his opening monologue sets him up as Sonic's ally; his tracking gadet establishes him as the geek; and we immediately establish his power of flight.
-
-The brief glimpse of the Mean Bean cafe, and its subsequent appearances, is another effective Easter egg. Fans of the game recognize the name, but it ties into Eggman's established love of coffee. Subtle, effective, narratively meaningful.
-
-It is honestly refreshing that the guy from *Criminal Minds* initially seems hostile toward Tom. So often, there are no consequences to the questionable things the heroes do. Following up on events from the first film is fun, and shows that the film takes narrative continuity seriously.
-
-The attack on the Wachowski house is absolutely beautiful. Eggman's goofiness and Knuckles's seriousness play off of each other wonderfully. Sonic and Knuckles are visually distinct; their contrasting color schemes highlight their matched powersets. The chilling delivery of the "Do I look like I need your power?" line establishes Knuckles as a genuine threat even before he effortlessly defeats Sonic in battle.
-
-### Sonic 3 Plot Analysis
-
 #### Dragon Balls
 
 *Sonic* and *Dragon Ball* are frequently compared, with good reason. In *Dragon Ball*, there are seven magical Dragon Balls which, when brought together, summon the mystical Eternal Dragon Shenron who is capable of granting and wish; once the wish is made, the Dragon disappears and the Dragon Balls are scattered across the earth and must be gathered again. Also, Goku has a super form in which his hair turns yellow and his power level skyrockets.
@@ -132,15 +100,93 @@ The Sonic films do nothing of the sort, or at least not yet. Despite Sonic's pro
 
 ### The Hero's Journey, Ambition, Restraint
 
+TK OUTLINE
+
+**Thesis:** *Sonic 2* tells one Hero's Journey and folds every other character into it. *Sonic 3* tries to tell two full journeys, Sonic's and Shadow's, plus a third for Ivo, in a shorter runtime (TK verify: ~122 min vs. ~110 min), so none of them gets room to breathe. The lesson *Sonic 2* teaches its hero, that power is worth more when you choose not to use it, applies to the film too.
+
+1. **Sonic 2: one journey, one owner per stage**
+   - The villain cold open is short (1.1–1.2) and does a job: it starts the threat and sets up Eggman as a mirror of the stranded hero. Then the camera stays on Sonic.
+   - Sonic's arc is a clean line through the table:
+     - Flaw: irresponsible power (1.3)
+     - Lesson planted: Tom's "that moment chooses you" (1.4)
+     - Ordinary world shattered (1.7)
+     - Trials (2.1–2.3)
+     - Ordeal and revelation with Knuckles (2.4–2.5)
+     - Nadir (2.9)
+     - Death and resurrection (2.10)
+     - Lesson applied (3.1)
+     - Apotheosis (3.3)
+     - Self-mastery (3.4)
+     - Belonging (3.6)
+   - Each stage maps to roughly one scene. The table almost never needs a slash.
+   - Supporting arcs are absorbed into Sonic's, not run in parallel:
+     - Tails: Sonic gets to *be* the mentor for the first time (2.2). His arc *is* Sonic's growth.
+     - Knuckles: the dark mirror (shared orphanhood, 2.5) is redeemed by *Sonic's* choice to save him (2.10). Knuckles doesn't need his own flashbacks; Sonic's journey resolves his.
+     - Eggman: a pure obstacle. He gets laughs but no competing arc. His betrayal of Knuckles (2.9) exists to push the hero's story forward.
+   - Honest concession: the Hawaii wedding detour (2.6–2.7) is the one real diversion, and it's the pacing issue mentioned in the intro. Even so, it's the human cast's moment, and it's over in two scenes.
+
+2. **Sonic 3: two journeys fighting for one runtime**
+   - Shadow's journey needs its own full set of stages:
+     - Ordinary world (2.1)
+     - Wound (2.11)
+     - Mentor's betrayal (2.12)
+     - Resurrection (3.3)
+     - Sacrifice (3.5)
+   - Sonic's journey needs its own as well:
+     - Ordinary world (1.2)
+     - Mentor (1.3)
+     - Call (1.4)
+     - Threshold (1.5)
+     - Nadir (2.9)
+     - Dark night (2.10)
+     - Choice (3.2)
+     - Return (3.6)
+   - The strain shows in the table itself: stacked labels ("Crossing the Threshold / Meeting the Shadow"), the threshold crossed twice (1.5, 1.8), and Ordeal → Supreme Ordeal → Dark Night packed into three back-to-back scenes (2.8–2.10).
+   - Shadow's arc is told mostly through two flashback inserts (2.1, 2.11). His present-day turn from vengeance to grief happens in one conversation (3.3). The film skips the gradual change it says it's showing.
+   - Sonic's darkest moment gets interrupted. Tom falls (2.9) and Sonic goes Golden (2.10), and then the film cuts to Shadow's flashback (2.11) and Ivo's realization (2.12) before we see what grief does to Sonic. He's out of the dark by 3.2. Compare *Sonic 2*, where the nadir (2.9) leads straight into the resurrection (2.10).
+   - The mirror structure is the film's best idea: Maria's speech parallels Tom's, and "you made the same choice I did" (3.1). But a mirror only works if both sides have been fully built, and neither one has been here.
+
+3. **The Robotnik tax**
+   - TK count: scenes where a Robotnik drives the action (roughly 1.8–1.10, 2.2–2.5, 2.8, 2.12, 3.4–3.6), about a third of the film.
+   - Ivo gets a *third* journey: villain → "family" bonding with Gerald → horrified realization → redemptive sacrifice. That's a whole arc competing with the two hedgehogs.
+   - Gerald adds another "family" thread on top of Sonic/Tom and Shadow/Maria. Three parallel family stories make each one thinner.
+   - Point ahead to the Dancing and Jim Carrey sections so this argument isn't repeated there: the "quality day" montage (2.5) and the mantis fight are the clearest cases of runtime spent with no arc payoff.
+   - Contrast: *Sonic 2*'s Eggman is just as funny, but every one of his scenes moves *Sonic's* plot forward.
+
+4. **Restraint as a narrative virtue**
+   - *Sonic 2*'s climax is about restraint: Sonic gives up Super form on purpose (3.4). The film shows the same discipline in how it handles Shadow, holding him back for a post-credits tease (3.7) instead of cramming him in.
+   - *Sonic 3* is the opposite. It uses every resource it has all at once (Shadow, Gerald, the ARK, the Master Emerald, Golden Sonic, two Robotniks), much like Sonic breaking his Emerald promise (2.6 → 2.10; tie back to the Dragon Balls section).
+   - What restraint could have looked like (pick one; don't list them all):
+     - Make it Shadow's film, with Sonic as the foil.
+     - Cut Gerald, and let Ivo be the one who frees Shadow.
+     - Keep Shadow's present-day arc on screen instead of in flashback.
+   - Closing beat: *Sonic 2* is the better film because it chose not to do everything.
+
 ## Keeping Promises and Following Through
 
 ### Following Through on Post-Credits Scenes
+
+I think enough has been said recently about post-credits scenes. They were cute twenty years ago. We're tired of them.
+
+The thing is, I actually enjoyed the post-credits scenes in the first two *Sonic* films. Teasing Tails after *Sonic the Hedgehog* made me so excited to see another silly, lighthearted movie about my favorite Blue Blur, and bringing up Project Shadow after *Sonic 2* had me shouting in the theater "They're doing SA2!" before promptly being escorted off the premises.
+
+Unfortunately, *Sonic 3* simply refuses to follow through on *Sonic 2*'s promise. "But wait," you might say, "Shadow was definitely in *Sonic 3*!" Sure, the Ultimate Life Form was, in fact, in the movie, but nothing else *Sonic 2*'s post-credit scene set up was. It was in scrubbing Ivo Robotnik's files that they found references to Project Shadow, and yet at the start of *Sonic 3* Ivo is... Well, we'll get there. Suffice it to say that a year of anticipating Ivo's brazen assault on Prison Island to free Shadow from stasis, or any other thing they could have come up with the bring Ivo and Shadow together, was utterly wasted.
+
+Because of that, when I see Amy Rose take out a whole army of Metal Sonics, it's hard to get that excited. Amy and Metal Sonic might be in *Sonic 4*, but I'm not going to wonder about the possibilities. They'll do whatever they want, continuity be damned.
 
 ### The Inexplicable Degradation of Eggman
 
 ### The Inexcusable Degradation of Stone
 
 ### The Blatant Disrespect to the Knuckles Miniseries
+
+*Knuckles* wasn't a perfect show. It had a lot of flaws. But it was fun as hell. The rock opera episode was *chef's kiss*.
+
+Where is everything Knuckles learned about friendship and his new sense of belonging reflected in *Sonic 3*? Nowhere.
+
+And Wade Whipple gets *one tiny cameo* and is on screen for *five seconds*? After everything he's been through, after he worked so hard and overcame so much to become a *bona fide* hero, doesn't he deserve better?
+
+The disrespect.
 
 ## In-Jokes
 
@@ -169,8 +215,6 @@ TK The dance scene comparison is one of your most promising TK sections. The sho
 ### CGI Cybernetic Insect Augmentations?
 
 I don't even know how to address this. I'm not aware of Eggman using nanometals to augment himself into a praying mantis in any other Sonic media, nor am I aware of this development having been set up or alluded to earlier in the film. It comes out of nowhere, the CGI is glaringly bad, and it comes off as a Michael Bay-esque attempt at spectacle with no emotional payoff. The jokes in the fight are also terrible attempts at slapstick physical comedy which pale in comparison to the rest of Carey's filmography. At best, the scene is a distraction which wastes valuable screen time.
-
-## Post-Credits Scenes
 
 ## Revision History
 
