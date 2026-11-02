@@ -79,8 +79,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/evelynrp"
-    - name: mastodon
-      url: "https://tech.lgbt/@chava"
     - name: matrix
       url: "https://matrix.to/#/@evelynrp:fedora.im"
     - name: xmpp
