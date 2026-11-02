@@ -68,13 +68,15 @@ params:
         url: about
       - name: Posts
         url: posts
+      - name: Résumé
+        url: "https://github.com/evelynrp/resume/blob/main/resume.pdf"
       - name: tetrataenite
         url: "https://tetrataenite.evelynpark.com/"
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: I'm Evelyn. I do humanities by day, and dabble in open source by night. If you're hiring in the Detroit area, hit me up!
+    Content: I'm Evelyn. I do humanities by day, and dabble in open source by night. Currently seeking GLAM work in Michigan.
 
   socialIcons:
     - name: github
