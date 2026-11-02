@@ -176,7 +176,48 @@ Because of that, when I see Amy Rose take out a whole army of Metal Sonics, it's
 
 ### The Inexplicable Degradation of Eggman
 
+TK OUTLINE
+
+**Thesis:** *Sonic 2* ends with Ivo at the peak of his arc: he has finally become Eggman. *Sonic 3* starts him somewhere else entirely and never explains how he got there. This pays off the "Well, we'll get there" from the post-credits section above. Keep this about character and continuity; Carrey's performance belongs in the Jim Carrey section.
+
+1. **Where *Sonic 2* left him**
+   - The trajectory across the first two films: government contractor (*Sonic 1*) → exile on the mushroom planet → return as a more confident, more dangerous villain.
+   - By the end of *Sonic 2* he's the most competent and threatening he's ever been: allies with Knuckles, takes the Master Emerald, builds the giant robot.
+   - The *Sonic 2* post-credits scene implies a next step: Ivo's files contain Project Shadow, so the natural *Sonic 3* has Ivo going after Shadow himself.
+
+2. **Where *Sonic 3* picks him up**
+   - TK verify: describe Ivo's state at the start of *Sonic 3* (in hiding? beaten? purposeless?) and where he is when the plot finds him.
+   - The gap: nothing on screen gets him from the end of *Sonic 2* to here. No scene shows what defeat did to him, and the shift is never treated as character development. The audience is just asked to accept it.
+   - He didn't free Shadow (1.1); Gerald did. The thing the last film set up for Ivo goes to a brand-new character.
+
+3. **Demoted to sidekick in his own franchise**
+   - Gerald takes the villain role, and Ivo becomes his grandfather's comic second (2.3–2.5).
+   - The "family" motivation (2.5) is new. TK: was Ivo's loneliness ever set up before? If it was (the Stone relationship?), the film could have built on it, but it doesn't.
+   - His face turn (2.12) and sacrifice (3.5) are meant to land as redemption, but redemption needs a fall the audience saw. Tie back to the Robotnik tax point in the Hero's Journey section, and don't repeat it.
+
+4. **Why it matters**
+   - The villain is the second most important character in a *Sonic* story. Weaken Eggman and Sonic's victories mean less.
+   - Closing beat: *Sonic 2* earned "Eggman." *Sonic 3* spends it.
+
 ### The Inexcusable Degradation of Stone
+
+TK OUTLINE
+
+**Thesis:** Eggman's change is *inexplicable* because the story never accounts for it. Stone's is *inexcusable* because the film knows exactly who Stone is and uses that against him for cheap laughs. TK confirm this is the distinction the title is getting at.
+
+1. **Who Stone was**
+   - *Sonic 1*: the loyal, quietly competent lieutenant. The latte gag works because it's sincere: he really does care about Ivo.
+   - TK verify *Sonic 2* appearances: what Stone did while Ivo was gone, and whether the films treat his devotion as sweet or as a joke.
+   - The appeal: the straight man and the one human tether Ivo has. Fans love the relationship (TK: mention the fandom reading of it, if you want to go there).
+
+2. **What *Sonic 3* does with him**
+   - TK verify specific scenes. Candidates: Gerald's arrival pushing Stone out of Ivo's life, Stone as the target of the Robotniks' jokes, and the "final livestream" farewell (3.6).
+   - The pattern to argue: his loyalty becomes the setup for humiliation instead of the source of warmth.
+   - If Ivo's whole arc is about wanting family, Stone was already that family. Gerald replacing him undercuts the film's own theme. This is the strongest point; lead with it or end on it.
+
+3. **Why "inexcusable"**
+   - This is a choice, not a continuity slip. The writers had a character with years of goodwill and spent it on gags.
+   - Closing beat: TK. Possibly mirror the Wade complaint in the Knuckles section below, since both are cases of side characters the audience loves getting left behind.
 
 ### The Blatant Disrespect to the Knuckles Miniseries
 
@@ -190,13 +231,55 @@ The disrespect.
 
 ## In-Jokes
 
+TK OUTLINE
+
+**Thesis:** Not all fanservice is equal. A good in-joke (1) works even if you don't get the reference, (2) fits the character as this version has written them, (3) gets screen time in proportion to its weight, and (4) either does a job in the story or is small enough that it doesn't have to. The Knuckles miniseries passes this test. *Sonic 3* mostly fails it. This is a concrete case of the "fanservice over substance" claim from the intro.
+
+- Maybe state the four criteria here, then check each subsection against them. Don't turn it into a scorecard; a sentence per criterion is plenty.
+- Order the subsections from success to failure, as they already are, so the section moves from charming to desperate.
+
 ### Knuckles Loves Grapes
+
+TK OUTLINE
+
+- **Origin:** an early game manual. Fans then made it a core part of Knuckles' character.
+- **In the films:** in the miniseries he claims to "only eat grapes." TK: note any other appearances in the films, if there are some.
+- **Why it works:** it's tiny, it costs no screen time, and it's funny on its own. Someone who has never played a *Sonic* game hears a weird, specific food habit and laughs. A fan gets an extra wink.
+- Use this as the model the rest of the section is measured against.
 
 ### The Flames of Disaster
 
+TK OUTLINE
+
+- **Origin:** *Sonic '06*, the most maligned game in the series. TK: one line on Iblis and why '06 is a punchline, for readers who don't know.
+- **What the miniseries did:** it retconned '06. The fire monster becomes something Knuckles fought in his past (shown in the rock opera episode) to unlock the Flames of Disaster. In the finale he uses the power, and his knuckles catch fire.
+- **Why it works:** the setup comes in the rock opera episode and the payoff comes in the finale. It reclaims something fans are embarrassed by and turns it into something cool. You don't need to know '06 to enjoy it, and knowing it makes it better.
+- **Why it's here:** the Flames never appear in *Sonic 3*. That isn't the complaint. They're here as proof that these writers know how to do fanservice well, and in *Sonic 3* they chose not to. Frame it that way up front so readers don't expect a "where were the Flames?" grievance.
+
 ### Knuckles is Afraid of Ghosts
 
+TK OUTLINE
+
+- **Origin:** the *Sonic Adventure* games.
+- **In *Sonic 3*:** Knuckles is suddenly afraid of ghosts as the team enters the abandoned GUN facility (2.2).
+- **Why it doesn't work:**
+  - This Knuckles has never been written as afraid of anything. He's a warrior whose comedy comes from being literal and earnest. The fear comes out of nowhere.
+  - It runs too long. A brief wink turns into a bit.
+  - It fails the non-fan test. Unlike the grapes, if you don't know the reference, it just looks like the character is acting strangely.
+- Contrast with the grapes in one line: both are small character quirks from the games, but only one of them fits the character the films have built.
+
 ### The Chao Garden
+
+TK OUTLINE
+
+- **Origin:** the virtual pet minigame from *Sonic Adventure*. TK: a sentence on why fans love it.
+- **The trailer:** seeing it there made me curious what they'd do with it.
+- **What *Sonic 3* did:** turned it into a strange Japanese mascot restaurant.
+- **Why it doesn't work:**
+  - Things happen there (the Shadow briefing, 1.7, and the drone attack, 1.8), but the place itself doesn't matter. Those scenes could have happened at a Taco Bell or an abandoned warehouse and nothing would change. It's a backdrop that exists only to point at the game.
+  - It has nothing of what made the Chao Garden special (raising, caring, the pets themselves). It uses the name and not the meaning.
+  - It comes off as desperate: "HEY, YOU LIKED CHAO, REMEMBER THESE?"
+- Closing beat for the whole section: the grapes trust the audience, and the Chao Garden doesn't.
 
 ## Jim Carrey
 
