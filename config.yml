@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B"
-    subtitle: "I'm Evelyn. I do humanities by day, and dabble in open source by night. If you're hiring in the Detroit area, hit me up!"
+    subtitle: "I'm Evelyn. I do humanities by day, and dabble in open source by night. Currently seeking GLAM work in Michigan."
     imageUrl: "/avatar.png"
     imageWidth: 120
     imageHeight: 120
